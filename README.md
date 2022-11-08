@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello ✋I'm Zoran
+=
 
-<!--
-**zedxiang/zedxiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Automatician and Computer Scientist
+-----------
 
-Here are some ideas to get you started:
+I am 21 years old and I am a student in automatism and industrial data processing at the university of Cergy. 
+I intend to continue my studies in industrial computing and automation in an engineering school. You will find below my skills, my hobbies and my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Good reading ! 
+
+* I'm based in France
+* :e-mail: You contact me at [tauvryzoran@gmail.com](mailto:tauvryzoran@gmail.com)
+* :mortar_board: I study automatism and it's programming language (ST,FBD,LD) but also servo systems. Then in computer science we learn C and Python, while having a base in HTML and CSS.
+* :brain: I sometimes have several hobbies such as video games:video_game:, sports:rugby_football:, literature:books: and music:musical_keyboard:
