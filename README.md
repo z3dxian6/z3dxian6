@@ -1,10 +1,10 @@
 Hello ✋I'm Zoran
 =
 
-Industrial Automatician and Computer Scientist
+Telesystem engineer
 -----------
 
-I am 21 years old and I am a student in automatism and industrial data processing at the university of Cergy. 
+I am 22 years old and I am a student in cybersécurity, network and system at the university of Paris Saclay. 
 I intend to continue my studies in industrial computing and automation in an engineering school. You will find below my skills, my hobbies and my work.
 
 Good reading ! 
