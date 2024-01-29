@@ -1,7 +1,7 @@
 Hello ✋I'm Zoran
 =
 
-Telesystem engineer
+Cybersecurity engineer
 -----------
 
 I am 22 years old and I am a student in cybersécurity, network and system at the university of Paris Saclay. 
