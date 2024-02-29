@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F722C8&random=false&width=435&lines=What's+up+I'm+Zoran+-+aka+z3dx!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F722C8&random=false&width=435&lines=What's+up+I'm+Zoran+-+aka+z3dx!)](https://git.io/typing-svg)  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=z3dxian6.z3dxian6&left_color=red&right_color=green)
 
-:shipit: I'm a cybersecurity engineering student  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=z3dxian6.z3dxian6&left_color=red&right_color=green)
+:shipit: I'm a cybersecurity engineering student  
 -----------
 
 I'm 22 years old and I'm a student in network and system engineering with a specialization in cybersecurity at ISTY in the University of Paris Saclay. 
