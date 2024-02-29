@@ -16,3 +16,13 @@ I'm also developing my skills in ethical hacking through various means such as w
 * :brain: I sometimes have several hobbies such as video games:video_game:, sports:rugby_football:, literature:books: and music:musical_keyboard:
 
 ![68747470733a2f2f632e74656e6f722e636f6d2f4f4b4f343867695a56677741414141432f7363686f6f6c2d73757065726261642e676966](https://github.com/z3dxian6/z3dxian6/assets/88077762/7f5c7128-c95e-482e-bc44-32b9fb10c4ab)
+
+
+<h2 align="center"> ⚒️ Languages-Frameworks -Tools ⚒️ </h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icon?i=nodejs,ptyhon,mariadb,c" /><br>
+    <img src="https://skillicons.dev/icon?i=mysql,html,css,git" /><br>
+  </a>
+</div>
