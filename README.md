@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F722C8FF&random=false&width=435&lines=What's+up!+I'm Zoran+-+aka+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F722C8&random=false&width=435&lines=What's+up+I'm+Zoran+aka+z3dx!)](https://git.io/typing-svg)
 
 :shipit: I'm cyber security engineer
 -----------
