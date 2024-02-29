@@ -28,9 +28,9 @@ I'm also developing my skills in ethical hacking through various means such as w
   </a>
 </div>
 <div align="center">
-    <picture>
+   <br>
       <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
       <img alt="github-snake" src="github-snake.svg" />
-    </picture>
+  <br/><br/><br/>
 </div>
