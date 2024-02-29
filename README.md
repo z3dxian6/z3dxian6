@@ -22,7 +22,7 @@ I'm also developing my skills in ethical hacking through various means such as w
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev" /><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" /><br>
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /><br>
   </a>
 </div>
