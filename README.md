@@ -18,12 +18,12 @@ I'm also developing my skills in ethical hacking through various means such as w
 ![68747470733a2f2f632e74656e6f722e636f6d2f4f4b4f343867695a56677741414141432f7363686f6f6c2d73757065726261642e676966](https://github.com/z3dxian6/z3dxian6/assets/88077762/7f5c7128-c95e-482e-bc44-32b9fb10c4ab)
 
 
-<h2 align="center"> ⚒️ Languages-Frameworks -Tools ⚒️ </h2>
+<h2 align="center"> ⚒️ Languages-Software-Tools ⚒️ </h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" /><br>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,bash,html,css,sql,perl,powershellfigma&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=github,kali,linux,redhat,vscode,windows,bsd,mysql,docker,c,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
   </a>
 </div>
