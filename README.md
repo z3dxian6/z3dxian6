@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-
-Cybersecurity engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F722C8FF&random=false&width=435&lines=Cybersecurity+engineer)](https://git.io/typing-svg)
 -----------
 
 I'm 22 years old and I'm a student in network and system engineering with a specialization in cybersecurity at ISTY in the University of Paris Saclay. 
