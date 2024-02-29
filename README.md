@@ -1,6 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=z3dxian6.z3dxian6&left_color=red&right_color=green)" />
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F722C8&random=false&width=435&lines=What's+up+I'm+Zoran+-+aka+z3dx!)](https://git.io/typing-svg)  
 
 :shipit: I'm a cybersecurity engineering student  
