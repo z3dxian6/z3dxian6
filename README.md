@@ -4,8 +4,8 @@ Hello ✋I'm Zoran
 Cybersecurity engineer
 -----------
 
-I am 22 years old and I am a student in cybersécurity, network and system at the university of Paris Saclay. 
-I intend to continue my studies in industrial computing and automation in an engineering school. You will find below my skills, my hobbies and my work.
+I'm 22 years old and I'm a student in network and system engineering with a specialization in cybersecurity at the University of Paris Saclay. 
+I'm also developing my skills in ethical hacking through various means such as websites and books. You'll find below my skills, hobbies and work.
 
 Good reading ! 
 
