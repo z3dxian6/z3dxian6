@@ -27,3 +27,8 @@ I'm also developing my skills in ethical hacking through various means such as w
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
   </a>
 </div>
+<div align="center">
+  <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/z3dxian6/z3dxian6/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
