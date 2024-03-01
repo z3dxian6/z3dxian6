@@ -29,4 +29,4 @@ I'm also developing my skills in ethical hacking through various means such as w
 </div>
 
 ### My GitHub Contributions 
-![Snake animation](https://github.com/z3dxian6/z3dxian6/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/z3dxian6/z3dxian6/blob/output/github-contribution-grid-snake.svg)
