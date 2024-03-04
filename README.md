@@ -11,7 +11,7 @@ I'm also developing my skills in ethical hacking through various means such as w
 :trident: Good reading boss!                                                     
 * I am based in France and more precisely in Paris
 * :e-mail: You contact me at [tauvryzoran@gmail.com](mailto:tauvryzoran@gmail.com)
-* :mortar_board: In networks, I mainly study TCP/IP (Internet, Intranet, Extranet) network architecture, algorithms and protocols, and the associated communications services. In telecoms, we focus on PSTN architecture, ATM networks and signaling. In systems, we study different types of application architecture audits encountered in networks (Linux/Windows), followed by a general exercise (Pentest) carried out progressively throughout the module.We also study databases such as MySQL and MariaDB, as well as computer languages such as C, Python and PHP.
+* :mortar_board: Currently, alongside my studies, I'm training in pentesting via various sites such as TryHackMe and HackTheBox, and soon RootMe. But also through books such as "Ethical Hacking: Learn to attack and defend yourself (6th edition)" or "Metasploit sécurité & Hacking, le guide du pentesteur, by David Kennedy".
 
 * :brain: I sometimes have several hobbies such as video games:video_game:, sports:rugby_football:, literature:books: and music:musical_keyboard:
 
