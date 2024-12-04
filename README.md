@@ -23,7 +23,7 @@ I'm also developing my skills in ethical hacking through various means such as w
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,bash,html,css,perl,ruby,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=github,kali,linux,redhat,vscode,windows,bsd,mysql,docker,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=github,gitlab,kali,linux,redhat,vscode,windows,bsd,mysql,docker,discord" /><br>
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
   </a>
 </div>
