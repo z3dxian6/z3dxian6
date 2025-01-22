@@ -22,7 +22,7 @@ I'm also developing my skills in ethical hacking, forensic and devsecops through
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1882924" style='border:none;'></iframe>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=z3dxian6" style='border:none;'></iframe>
     <img src="https://skillicons.dev/icons?i=python,c,bash,html,css,perl,ruby,powershell" /><br>
     <img src="https://skillicons.dev/icons?i=github,gitlab,kali,linux,redhat,vscode,windows,bsd,mysql,docker,discord" /><br>
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
