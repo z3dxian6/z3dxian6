@@ -6,12 +6,12 @@
 -----------
 
 I'm 22 years old and I'm a student in network and system engineering with a specialization in cybersecurity at the Graduate School Computer Sience the University of Paris Saclay. 
-I'm also developing my skills in ethical hacking through various means such as websites and books. You'll find below my skills, hobbies and work.
+I'm also developing my skills in ethical hacking, forensic and devsecops through various means such as websites, CTF and books. You'll find below my skills, hobbies and work.
 
 :trident: Good reading boss!                                                     
 * I am based in France and more precisely in Paris
 * :e-mail: You contact me at [zoran.tauvry@ens.uvsq.fr](mailto:zoran.tauvry@ens.uvsq.fr)
-* :mortar_board: Currently, alongside my studies, I'm training in pentesting, forensic and devsecops via various sites such as TryHackMe and HackTheBox, and soon RootMe. But also through books such as "Ethical Hacking: Learn to attack and defend yourself (6th edition)" or "Metasploit sécurité & Hacking, le guide du pentesteur, by David Kennedy".
+* :mortar_board: Currently, alongside my studies, I'm training in pentesting, forensic and devsecops via various sites such as TryHackMe and HackTheBox and CTF. But also through books such as "Ethical Hacking: Learn to attack and defend yourself (6th edition)" or "Metasploit sécurité & Hacking, le guide du pentesteur, by David Kennedy".
 
 * :brain: I sometimes have several hobbies such as video games:video_game:, sports:rugby_football:, literature:books: and music:musical_keyboard:
 
