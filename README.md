@@ -18,7 +18,8 @@ I'm also developing my skills in ethical hacking, forensic and devsecops through
 ![68747470733a2f2f632e74656e6f722e636f6d2f4f4b4f343867695a56677741414141432f7363686f6f6c2d73757065726261642e676966](https://github.com/z3dxian6/z3dxian6/assets/88077762/7f5c7128-c95e-482e-bc44-32b9fb10c4ab)
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1882924" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/z3dxian6.png" alt="Your Image Badge" />
+
 
 <h2 align="center"> ⚒️ Languages-Software-Tools ⚒️ </h2>
 <br/>
