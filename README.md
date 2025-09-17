@@ -10,7 +10,6 @@ I'm also developing my skills in ethical hacking, forensic and devsecops through
 
 :trident: Good reading boss!                                                     
 * I am based in France and more precisely in Paris
-* :e-mail: You contact me at [zoran.tauvry@ens.uvsq.fr](mailto:zoran.tauvry@ens.uvsq.fr)
 * :mortar_board: Currently, alongside my studies, I'm training in pentesting, forensic and devsecops via various sites such as TryHackMe and HackTheBox and CTF. But also through books such as "Ethical Hacking: Learn to attack and defend yourself (6th edition)" or "Metasploit sécurité & Hacking, le guide du pentesteur, by David Kennedy".
 
 * :brain: I sometimes have several hobbies such as video games:video_game:, sports:rugby_football:, literature:books: and music:musical_keyboard:
