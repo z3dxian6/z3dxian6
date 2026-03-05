@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,bash,html,css,perl,ruby,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,bash,html,css,java,ruby,powershell,javascript,typescript" /><br>
     <img src="https://skillicons.dev/icons?i=github,gitlab,kali,linux,redhat,vscode,windows,bsd,mysql,docker,discord" /><br>
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
   </a>
