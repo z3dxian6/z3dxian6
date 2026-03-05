@@ -18,9 +18,5 @@
 <h2 align="center"> ⚒️ Languages-Software-Tools ⚒️ </h2>
 <br/>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,bash,html,css,js,ts,java,ruby,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=github,gitlab,kali,linux,redhat,vscode,windows,bsd,mysql,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" /><br>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,c,bash,js,ts,java,linux,kali,docker,git,github,vscode,windows,arduino,raspberrypi,discord&perline=8" />
 </div>
