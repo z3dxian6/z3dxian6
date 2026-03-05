@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F722C8&random=false&width=435&lines=What's+up+I'm+Zoran+-+aka+zзd!)](https://git.io/typing-svg)  
 
-:shipit: I'm a cybersecurity engineering student  
+:shipit: I'm a IT/OT Pentester  
 -----------
 
-24-year-old IT/OT pentester/auditor, self-taught cybersecurity enthusiast, actively improving my offensive skills through platforms such as Hack The Box, Offsec, INE Security, TCM Security, and RootMe. Below you will find my skills, hobbies, and work experience.
+24-year-old, self-taught cybersecurity enthusiast, actively improving my offensive skills through platforms such as Hack The Box, Offsec, INE Security, TCM Security, and RootMe. Below you will find my skills, hobbies, and work experience.
 
 :trident: Good reading boss!                                                     
 * I am based in France and more precisely in Paris
